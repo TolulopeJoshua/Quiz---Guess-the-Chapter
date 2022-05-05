@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729768889238",
+    "project_id": "myproject1-45f92",
+    "storage_bucket": "myproject1-45f92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729768889238:android:299fd432d2d92a14b7ebb7",
+        "android_client_info": {
+          "package_name": "com.bibleworld.biblequiz_guessthebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729768889238-qrce0t7usggqrmh63bea757vbps4b3cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs4K2e3NXFPR-Dx9PtJPGDyXw-NTHInCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729768889238-qrce0t7usggqrmh63bea757vbps4b3cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
